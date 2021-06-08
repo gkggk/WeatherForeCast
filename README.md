@@ -17,7 +17,7 @@ Project uses following conecpts in the code
 * Mockito
 
 #### Class Diagram
-https://github.com/gkggk/WeatherForeCast/blob/master/Class%20Diagram.pngg
+https://github.com/gkggk/WeatherForeCast/blob/master/Class%20Diagram.png
 
 ### Functionlaity
 
