@@ -16,7 +16,7 @@ Project uses following conecpts in the code
 * Expresso
 * Mockito
 
-####Class Diagram
+#### Class Diagram
 https://github.com/gkggk/WeatherForeCast/blob/master/Class%20Diagrom.png
 
 ### Functionlaity
